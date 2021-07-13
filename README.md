@@ -1,20 +1,21 @@
 # levelsystembot
 Level System Bot - made by lxy#5676
 
-**Packages needed:**
- * discord.js
- * discord-xp
- * mongoose
+
 
 # How to install
   1. You will need to install [NodeJS](https://nodejs.org/en/)
   2. Create a database with [MongoDB](https://www.mongodb.com/)
   3. Open up the code in VSC 
-    * Put in your bot token
-    * Put in your MongoURL
+     * Put in your bot token
+     * Put in your MongoURL
   4. Press the file location on the top in the folder
   5. install the packages needed
-  6. type `node .`
-  7. Enjoy!
+     **Packages needed:**
+       * discord.js
+       * discord-xp
+       * mongoose
+  7. type `node .`
+  8. Enjoy!
 
 Basic level system bot
