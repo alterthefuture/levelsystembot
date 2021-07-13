@@ -10,7 +10,7 @@ Level System Bot - made by lxy#5676
      * Put in your bot token
      * Put in your MongoURL
   4. Press the file location on the top in the folder
-  5. install the packages needed
+  5. install the packages needed\n
      **Packages needed:**
        * discord.js
        * discord-xp
