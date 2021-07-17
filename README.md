@@ -1,6 +1,5 @@
 # levelsystembot
-Level System Bot - made by lxy#5676
-
+Level System Bot - made by xqi#1400
 
 
 # How to install
