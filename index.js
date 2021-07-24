@@ -10,7 +10,7 @@ client.on('ready', () => {
     console.log("Bot is online!")
     client.user.setPresence({
         activity: {
-          name: `made by lxy#5676`,
+          name: `made by Luxa#1350`,
           type: "PLAYING"
         },
         status: 'online'
